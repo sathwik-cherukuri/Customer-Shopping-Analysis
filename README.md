@@ -25,58 +25,58 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
  ## Process 
 1. Data Collection
 
-The dataset (customer_shopping_behaviour.csv) contains customer details such as age, gender, purchase amount, item purchased, category, rating, subscription status, etc.
+- The dataset (customer_shopping_behaviour.csv) contains customer details such as age, gender, purchase amount, item purchased, category, rating, subscription status, etc.
 
 2. Data Cleaning & Preparation (Python)
 
-Loaded data using Pandas.
+- Loaded data using Pandas.
 
-Cleaned missing values and standardized column names.
+- Cleaned missing values and standardized column names.
 
-Created additional columns (e.g., age_group).
+- Created additional columns (e.g., age_group).
 
-Ensured data types were consistent for numerical and categorical columns.
+- Ensured data types were consistent for numerical and categorical columns.
 
 3. Exploratory Data Analysis (EDA)
 
-Analyzed customer demographics, purchase patterns, and category performance.
+- Analyzed customer demographics, purchase patterns, and category performance.
 
-Visualized insights using Matplotlib and Seaborn (e.g., revenue by gender, top-selling categories, customer age distribution).
+- Visualized insights using Matplotlib and Seaborn (e.g., revenue by gender, top-selling categories, customer age distribution).
 
 4. SQL Analysis
 
-Imported the cleaned data into MySQL.
+- Imported the cleaned data into MySQL.
 
-Wrote SQL queries to extract business insights:
+- Wrote SQL queries to extract business insights:
 
-Revenue by gender
+  - Revenue by gender
 
-Subscription vs non-subscription spending
+- Subscription vs non-subscription spending
 
-Top products by rating and category
+- Top products by rating and category
 
-Customer segmentation (New, Returning, Loyal)
+- Customer segmentation (New, Returning, Loyal)
 
-Discount and shipping analysis
+- Discount and shipping analysis
 
 5. Dashboard Creation (Power BI)
 
-Connected Power BI to the processed dataset or SQL database.
+- Connected Power BI to the processed dataset or SQL database.
 
-Built interactive visuals for KPIs such as:
+- Built interactive visuals for KPIs such as:
 
-Total Revenue
+- Total Revenue
 
-Average Purchase Value
+- Average Purchase Value
 
-Revenue by Gender, Category, and Age Group
+- Revenue by Gender, Category, and Age Group
 
-Top Products and Loyal Customer Insights
+- Top Products and Loyal Customer Insights
 
 6. Insights & Conclusion
 
-Identified trends in customer behavior and spending patterns.
+- Identified trends in customer behavior and spending patterns.
 
-Highlighted factors influencing higher sales (like discounts, subscriptions, and shipping type).
+- Highlighted factors influencing higher sales (like discounts, subscriptions, and shipping type).
 
-Summarized findings in Power BI for better decision-making.
+- Summarized findings in Power BI for better decision-making.
