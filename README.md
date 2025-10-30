@@ -80,3 +80,6 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 - Highlighted factors influencing higher sales (like discounts, subscriptions, and shipping type).
 
 - Summarized findings in Power BI for better decision-making.
+
+## DashBoard Interaction
+<a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20dashboard.pbix">View dashboard</a>
