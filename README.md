@@ -56,7 +56,7 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 - Summarized findings in Power BI for better decision-making.
 
 ## DashBoard Interaction
-<a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20dashboard.pbix">View dashboard</a>
+<a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/Customer%20dashboard.png">View dashboard</a>
 
 ## Project Insights
 - Both male and female customers generate strong revenue, with slight variation in spending patterns.
