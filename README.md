@@ -51,13 +51,13 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 
   - Revenue by gender
 
- - Subscription vs non-subscription spending
+  - Subscription vs non-subscription spending
 
- - Top products by rating and category
+  - Top products by rating and category
 
- - Customer segmentation (New, Returning, Loyal)
+  - Customer segmentation (New, Returning, Loyal)
 
- - Discount and shipping analysis
+  - Discount and shipping analysis
 
 5. Dashboard Creation (Power BI)
 
@@ -65,13 +65,13 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 
 - Built interactive visuals for KPIs such as:
 
- - Total Revenue
+  - Total Revenue
 
- - Average Purchase Value
+  - Average Purchase Value
 
- - Revenue by Gender, Category, and Age Group
+  - Revenue by Gender, Category, and Age Group
 
- - Top Products and Loyal Customer Insights
+  - Top Products and Loyal Customer Insights
 
 6. Insights & Conclusion
 
