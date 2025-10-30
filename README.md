@@ -23,19 +23,19 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
  <a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20analysis%20using%20sql.sql"> KPI's </a> 
 
  ## Process 
-1. Data Collection
+### 1. Data Collection
 
 - The dataset (customer_shopping_behaviour.csv) contains customer details such as age, gender, purchase amount, item purchased, category, rating, subscription status, etc.
 
-2. Data Cleaning & Preparation (Python)
+### 2. Data Cleaning & Preparation (Python)
 - Loaded data using Pandas.
 - Cleaned missing values and standardized column names.
 - Created additional columns (e.g., age_group).
 - Ensured data types were consistent for numerical and categorical columns.
-3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 - Analyzed customer demographics, purchase patterns, and category performance.
 - Visualized insights using Matplotlib and Seaborn (e.g., revenue by gender, top-selling categories, customer age distribution).
-4. SQL Analysis
+### 4. SQL Analysis
 - Imported the cleaned data into MySQL.
 - Wrote SQL queries to extract business insights:
   - Revenue by gender
@@ -43,17 +43,28 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
   - Top products by rating and category
   - Customer segmentation (New, Returning, Loyal)
   - Discount and shipping analysis
-5. Dashboard Creation (Power BI)
+### 5. Dashboard Creation (Power BI)
 - Connected Power BI to the processed dataset or SQL database.
 - Built interactive visuals for KPIs such as:
   - Total Revenue
   - Average Purchase Value
   - Revenue by Gender, Category, and Age Group
   - Top Products and Loyal Customer Insights
-6. Insights & Conclusion
+### 6. Insights & Conclusion
 - Identified trends in customer behavior and spending patterns.
 - Highlighted factors influencing higher sales (like discounts, subscriptions, and shipping type).
 - Summarized findings in Power BI for better decision-making.
 
 ## DashBoard Interaction
 <a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20dashboard.pbix">View dashboard</a>
+
+## Project Insights
+- Both male and female customers generate strong revenue, with slight variation in spending patterns.
+- Discount offers encourage higher purchase amounts.
+- Top-rated products show high customer satisfaction.
+- Express shipping users spend more than standard shipping users.
+- Subscribed customers contribute more revenue than non-subscribers.
+- Loyal customers make the highest total purchases.
+- Most repeat buyers are also subscribers.
+- The 25–40 age group drives the highest sales.
+- Top 3 products in each category account for most purchases.
