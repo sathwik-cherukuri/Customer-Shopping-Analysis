@@ -20,4 +20,63 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 - Are repeat buyers (more than 5 previous purchases) more likely to subscribe?
 - What is the revenue contribution of each age group?
   
- <a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20analysis%20using%20sql.sql"> KPI's </a>  
+ <a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20analysis%20using%20sql.sql"> KPI's </a> 
+
+ ## Process 
+1. Data Collection
+
+The dataset (customer_shopping_behaviour.csv) contains customer details such as age, gender, purchase amount, item purchased, category, rating, subscription status, etc.
+
+2. Data Cleaning & Preparation (Python)
+
+Loaded data using Pandas.
+
+Cleaned missing values and standardized column names.
+
+Created additional columns (e.g., age_group).
+
+Ensured data types were consistent for numerical and categorical columns.
+
+3. Exploratory Data Analysis (EDA)
+
+Analyzed customer demographics, purchase patterns, and category performance.
+
+Visualized insights using Matplotlib and Seaborn (e.g., revenue by gender, top-selling categories, customer age distribution).
+
+4. SQL Analysis
+
+Imported the cleaned data into MySQL.
+
+Wrote SQL queries to extract business insights:
+
+Revenue by gender
+
+Subscription vs non-subscription spending
+
+Top products by rating and category
+
+Customer segmentation (New, Returning, Loyal)
+
+Discount and shipping analysis
+
+5. Dashboard Creation (Power BI)
+
+Connected Power BI to the processed dataset or SQL database.
+
+Built interactive visuals for KPIs such as:
+
+Total Revenue
+
+Average Purchase Value
+
+Revenue by Gender, Category, and Age Group
+
+Top Products and Loyal Customer Insights
+
+6. Insights & Conclusion
+
+Identified trends in customer behavior and spending patterns.
+
+Highlighted factors influencing higher sales (like discounts, subscriptions, and shipping type).
+
+Summarized findings in Power BI for better decision-making.
