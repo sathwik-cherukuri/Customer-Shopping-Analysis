@@ -68,3 +68,6 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 - Most repeat buyers are also subscribers.
 - The 25–40 age group drives the highest sales.
 - Top 3 products in each category account for most purchases.
+
+ ## Conclusion
+ In this project, I analyzed customer shopping behavior using Python, SQL, and Power BI. From the analysis, I found that subscribed and loyal customers spend more and generate higher revenue. Discounts and express shipping attract more purchases, while customers aged 25–40 contribute the most to total sales. Overall, this project helps understand customer patterns and supports better business decisions through data analysis.
