@@ -19,5 +19,4 @@ This project analyzes customer shopping patterns using Python, SQL, and Power BI
 - What are the top 3 most purchased products within each category?
 - Are repeat buyers (more than 5 previous purchases) more likely to subscribe?
 - What is the revenue contribution of each age group?
-
-##  
+<a href = "https://github.com/sathwik-cherukuri/Customer-Shopping-Analysis/blob/main/customer%20analysis%20using%20sql.sql">KPI's</a>  
